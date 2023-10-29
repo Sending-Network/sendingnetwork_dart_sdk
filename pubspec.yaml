@@ -22,7 +22,7 @@ dependencies:
   image: ^4.0.15
   js: ^0.6.3
   markdown: ^4.0.0
-  sendingnetworkdart_api_lite: ^0.0.9
+  sendingnetworkdart_api_lite: ^0.1.0
   mime: ^1.0.0
   olm: ^2.0.2
   random_string: ^2.3.1
